@@ -1,11 +1,11 @@
 [package]
-name = "faang-bgremover-backend"
+name = "bgremover-backend"
 version = "0.1.0"
 edition = "2021"
 description = "One-click background removal - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-bgremover"
+repository = "https://github.com/JJ-Dynamite/bgremover"
 
 [dependencies]
 axum = "0.7"

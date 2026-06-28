@@ -1,6 +1,6 @@
 # One-click background removal
 
-[![CI](https://github.com/JJ-Dynamite/faang-bgremover/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-bgremover/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/bgremover/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/bgremover/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > One-click background removal - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/faang-bgremover.git
+git clone https://github.com/JJ-Dynamite/bgremover.git
 cd bgremover
 
 # Install backend dependencies
