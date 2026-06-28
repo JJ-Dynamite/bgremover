@@ -1,4 +1,4 @@
-# Contributing to bgremover
+# Contributing to faang-bgremover
 
 Thank you for your interest in contributing!
 
